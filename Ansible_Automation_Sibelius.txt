@@ -1,0 +1,58 @@
+quiz 1:
+valid YAML - all
+Ansible is all
+virtualization and cloud - all
+design goal of ansible - all
+ansible acquired by - redhat
+yaml tab for identation - false
+agentless - ansible
+
+Quiz 2:
+copy files - fetch
+no facts from remote - gather_facts:False
+file module - folder
+
+quiz 3:
+stop playbook - pause
+module to communicate - json
+comment in jinja2 - {#..#}
+manage docker - docker_service
+handler - true
+
+
+quiz 4:
+playbook starts 3 ... - false
+variable - setup
+program - wihtout erros
+
+
+quiz5:
+random - with_random_choices
+
+quiz6:
+reduce ssh connection - pipelining
+ansible.cfg path - etc/ansible
+privilege escalation - become true
+
+
+Final quiz:
+3 dots starting - false
+random - with_random_choices
+comm - json
+handlers - true
+docker - docker_service
+agentless - Ansible
+no facts - gather_facts:False
+tab indent - false
+program - no errors
+inventory file - etc/ansible/host
+default fork - 5
+ansible - redhat
+ansible.cfg path - etc/ansible
+multiple condition - false
+two type of server - control& node
+comment in jinja2 - {#..#}
+ansible valut - true
+all vars - setup
+manage over - ssh
+force handler - flush
