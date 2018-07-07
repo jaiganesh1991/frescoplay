@@ -1,0 +1,21 @@
+thin backup - global and job specific
+pipline plugin - build, test 
+artifact repo - nexus
+CI toool - Teamcity
+jabber - messaging pluggin
+jenkins - open source
+upstream and downstream jobs - build pipeline plugin
+master cannot execute - false
+master and slave communicate through - ssh
+copy artifact - Build 
+jenkins - hudson project
+restrict to particualar slave - true
+amazon s3 - publish artifact(All)
+distributed report - master and slave
+reporting results - post build
+jenkins builds - own workspace
+top bild projects - figerprint
+cron job - externalproject type
+project types - All
+available options in build step - true
+
