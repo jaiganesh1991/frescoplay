@@ -1,0 +1,6 @@
+quiz1:
+devops emcompasses - automation
+what deploy - Release mgmt
+culture & coll - true
+value - entire 
+agile manifesto - working software

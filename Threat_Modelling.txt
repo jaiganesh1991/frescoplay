@@ -1,0 +1,20 @@
+The major difference between HMM3 and HMM4 is - Automation
+What is the full form of MDR? - Managed Detection and response
+Executing a hypothesis involves interrogating data from various sources to find whether an attacker is in fact present. - True
+Which of the following level in hunting maturity model is not capable for threat hunting? Initial
+An organization should focus mainly on - Both
+EDR stands for - Endpoint Detection and Response
+It is very easy for an organization to detect the threats within few days using traditional signature-based technologies. - False
+Which of the following threat hunting platform uses Forensic state analysis (FSA) to discover hidden threats and compromises? Infocyte Hunt
+In the word STRIDE, R stand for - Repudiation
+The process of designing a security specification and then eventually testing that specification is known as - Threat Modeling
+Who described the five levels of hunting maturity model? - David J Bianco
+Which of the following is perfect for highlighting the continuous process improvement? - Hunting Maturity model
+Threat hunting should not be conducted by external service provider. - false
+Hunting maturity model (HMM) can be used - both
+Maltego is an advanced querying tool that uses stateful session data models to complement user behavior analytics. - False 
+Is cyber threat hunting a realistic practice with the IOT? - true
+Which of the following is an adaptation of the U.S. military’s kill chain process? - the Cyber kill chain
+Full form of TTP is - Tactics, Techniques and Procedures
+Threat hunting can be fully automated. - false
+Which of the following are the aspects of threat modeling? - Identify mitigation strategies Categorizing the threats //
