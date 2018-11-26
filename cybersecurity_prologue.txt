@@ -1,0 +1,20 @@
+Which helps to predict the cybersecurity potential risks effectively ? - proactive hunting
+In cryptography, what is cipher? - encrypted message
+An attempt to make a computer resource unavailable to its intended users is called - DoS
+Which is not a characteristics of Advanced Persistent threats ? - infiltrate
+At Tactical level threat intelligence research analysis and reports can be published after malware analysis. - true
+Incident Category can be defined according to business functional priorities. - True
+A Botmaster can attack and take control of vulnerable one like - All the option
+Incidents should be handled on a first come-first serve basis and must be prioritized based on the Business impact. - true
+Defining five levels of SLA security controls each from 98.9 to 98.5 respectively to control penalty risk must be a part of - Architectural requirement
+It is a program or hardware device that filters the information coming through an internet connection to a network or computer system. - firewall
+At Operational level threat intelligence real time feed protocols are being used. - true
+Which of these groups exploits cyber vulnerabilities? - All of the option
+Traffic in a VPN is not - Ipsec protocol only
+Attack which happens due to neglected factors like compromising with security is a type of - speific threat
+UML component diagram is used to identify how a module validate and processes the data before storing it. - true
+A ________ is an extension of an enterprise’s private intranet across a public Network such as the Internet across a public Network such as the Internet, creating a secure private connection. - VPN
+A Hacker or disgruntled employee who is interested in specific Asset or information is a type of - Non maliious attack
+are often delivered to a PC through an email attachment and are often designed to do harm. - virus
+The relationship between a character in the plaintext to a character is - one to many
+The Cryptography can provide - all of them
